@@ -1,5 +1,0 @@
-file=open("filetest.txt","w+")
-file.write("Hello potti")
-file.write("hello Ajay")
-file.write("Musham")
-file.close()
